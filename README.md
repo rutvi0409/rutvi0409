@@ -25,13 +25,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data--Science-blueviolet?style=flat)
 
 ---
 
 ## 💖 A Bit About Me
 
-- 👩‍💻 Aspiring Data Scientist who believes in hard work and heart.
 - 🌸 I believe in 11:11 wishes, prayers, and magical little moments.
 - 🎧 Music, chocolates, and movies = my perfect evening.
 - 🏡 Hostel life has its vibes, but I carry my home in my heart.
@@ -41,12 +39,9 @@
 ## 📬 Let’s Connect!
 
 - ✨ [GitHub Profile](https://github.com/rutvi0409)
-- 💼 [LinkedIn](https://linkedin.com/) _(Update yours if you have one!)_
 - 📝 Working on cool projects every day — come say hi!
 
 ---
-
-> 🌟 *"You're stronger than you think, smarter than you believe, and more capable than you feel. Keep shining, Rutvii."*
 
 ---
 
